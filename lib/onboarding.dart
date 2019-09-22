@@ -42,7 +42,7 @@ class OnBoarding extends StatelessWidget {
                   ),
                 ),
                 SizedBox(
-                  height: 40,
+                  height: 216,
                 ),
                 Row(
                   children: <Widget>[
