@@ -4,13 +4,17 @@ A mockup for look
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. The first design I've made using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Inspired by 
+<img src="/gitpreview/inspo.jpg" alt="drawing" width="400"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Preview Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  <img src="/gitpreview/Screenshot_1569141194.png" alt="drawing" width="200"/> &nbsp;&nbsp;&nbsp;
+  <img src="/gitpreview/Screenshot_1569141198.png" alt="drawing" width="200"/>
+
+
+## Playblack
+ <img src="/gitpreview/Preview.gif" alt="drawing" width="200"/>
